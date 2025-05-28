@@ -7,19 +7,6 @@
 
 A curated collection of algorithms implemented in C++, one per day. Each solution comes with detailed explanations, complexity analysis, and test cases.
 
-## 🚀 Project Structure
-
-```
-daily-algorithms/
-├── Day-01-FindMax/
-│   ├── findMax.cpp
-│   └── README.md
-├── Day-02-FindMin/
-│   ├── find_min.cpp
-│   └── README.md
-└── ... (future days)
-```
-
 ## 🌟 Featured Algorithms
 
 ### 🔢 Basic Operations
